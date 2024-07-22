@@ -3,7 +3,7 @@
 
 ## Deploy
 
-- [Heroku App](https://hello-you-springboot-2908d926200a.herokuapp.com/)
+- [Heroku App](https://springboot-base-demo-c3374dd33da0.herokuapp.com/)
 
 ## Doel
 
