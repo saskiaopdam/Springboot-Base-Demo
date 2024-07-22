@@ -24,3 +24,4 @@ Kennismaken met Spring-Boot:
 - Maven
 - Spring-Boot
 - Heroku Automated deploy van GitHub
+- Heroku config: system.properties + Procfile
